@@ -1,0 +1,8 @@
+﻿Strategy,Category,Total Capital Cost (Million $ ),O&M Cost Low ($/AF),O&M Cost High ($/AF),O&M cost_Low_2040 (Million $),O&M cost_High_2040 (Million $),O&M cost_Low_2070 (Million $),O&M cost_High_2070 (Million $),Total_Cost_Low_2040 (Million $),Total_Cost_High_2040 (Million $),Total_Cost_Low_2070 (Million $),Total_Cost_High_2070 (Million $),Supply_2040 (AF/yr),Supply_2070 (AF/yr),Resilience Score (1-5),Feasibility Score (1-5),Implementation Type,Years Before available
+AWP,Reuse,150,500,680,52.5,71.4,315,428.4,203,221,465,578,70000,140000,3,4,Centralized,15
+Desalination - Inland,Desalination,10,700,800,10.5,12,94.5,108,21,22,105,118,10000,30000,2,3,Centralized,15
+Desalination - Coastal,Desalination,100,700,950,21,28.5,315,427.5,121,129,415,528,20000,100000,2,2,Centralized,25
+Major Conservation,Conservation,20,200,400,18,36,90,180,38,56,110,200,60000,100000,4,2,Decentralized,5
+Minor Conservation,Conservation,0.5,50,100,2.25,4.5,11.25,22.5,3,5,12,23,30000,50000,5,2,Decentralized,2
+Agriculture Conservation,Conservation,5,250,750,18.75,56.25,112.5,337.5,24,61,118,343,50000,100000,4,3,Policy-Based,5
+Rainwater Harvesting,Local Supply,8,150,300,0.9,1.8,8.1,16.2,9,10,16,24,4000,12000,5,3,Decentralized,5
